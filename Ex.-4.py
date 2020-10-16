@@ -3,7 +3,7 @@ one = int(input("Enter Number:\n"))
 print("type 1 or 0")
 two = int(input())
 new = bool(two)
-
+#it repersent classes
 if new==True:
     for i in range(one):
         for j in range(i+1):
